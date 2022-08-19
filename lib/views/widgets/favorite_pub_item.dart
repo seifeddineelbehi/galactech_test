@@ -27,7 +27,7 @@ class FavoritePubItem extends StatelessWidget {
       key: _formKey,
       child: Container(
         width: SizeConfig.safeBlockHorizontal * 90,
-        height: SizeConfig.safeBlockVertical * 74,
+        height: SizeConfig.safeBlockVertical * 85,
         padding: const EdgeInsets.all(10),
         margin: const EdgeInsets.only(bottom: 5, top: 5),
         decoration: BoxDecoration(

@@ -20,7 +20,7 @@ class PubItem extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: SizeConfig.safeBlockHorizontal * 90,
-      height: SizeConfig.safeBlockVertical * 48,
+      height: SizeConfig.safeBlockVertical * 60,
       padding: const EdgeInsets.all(10),
       margin: const EdgeInsets.only(bottom: 5, top: 5),
       decoration: BoxDecoration(
